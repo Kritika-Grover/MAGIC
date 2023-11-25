@@ -1,0 +1,30 @@
+INFO:
+Executing: open tmp/ms_ranked_1.pdb
+INFO:
+Chain information for ms_ranked_1.pdb #1  
+---  
+Chain | Description  
+[A](cxcmd:select /A:1-354 "Select chain") | [No description
+available](cxcmd:sequence chain #1/A "Show sequence")  
+[B](cxcmd:select /B:1-212 "Select chain") | [No description
+available](cxcmd:sequence chain #1/B "Show sequence")  
+  
+
+INFO:
+Executing: hbonds 
+STATUS:
+Finding acceptors in model 'ms_ranked_1.pdb'
+STATUS:
+Building search tree of acceptor atoms
+STATUS:
+Finding donors in model 'ms_ranked_1.pdb'
+STATUS:
+Matching donors in model 'ms_ranked_1.pdb' to acceptors
+INFO:
+560 hydrogen bonds found
+STATUS:
+560 hydrogen bonds found
+INFO:
+Executing: exit
+STATUS:
+Exiting ...

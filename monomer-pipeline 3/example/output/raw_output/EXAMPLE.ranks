@@ -1,0 +1,4 @@
+example/pdbs/wt/ranked_0.pdb
+example/pdbs/ms/ranked_1.pdb
+Closest pair: Wild type: example/pdbs/wt/ranked_0.pdb, Variant: example/pdbs/ms/ranked_1.pdb
+RMSD between residues: 0.010982805012629491

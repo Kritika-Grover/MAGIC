@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, th {
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+.wrapper {
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+.space-grotesk {
+    font-weight: bold;
+}
+
+.img-container img {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card {
+    flex: 1;
+    min-width: calc(50% - 20px);  /* 50% of container width minus margin */
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+    background-color: #f9f9f9;
+}
+
+.card-title {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.card-value {
+    font-size: 2em;
+    margin-bottom: 10px;
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+.card-tag {
+    font-size: 0.9em;
+    color: #555;
+}

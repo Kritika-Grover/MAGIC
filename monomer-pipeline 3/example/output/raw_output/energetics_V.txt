@@ -1,0 +1,79 @@
+******************************************************
+*              EvoDesign Energy Function             *
+*                                                    *
+*  Copyright (c) 2019 Xiaoqiang Huang                *
+*  The Yang Zhang Lab                                *
+*  Dept. of Computational Medicine & Bioinformatics  *
+*  Medical School                                    *
+*  University of Michigan                            *
+******************************************************
+Command ComputeStability is supported.
+pdb file ms_ranked_1.pdb was read by EvoEF
+
+Structure energy details:
+reference_ALA         =               45.60
+reference_CYS         =               12.00
+reference_ASP         =               42.00
+reference_GLU         =               42.00
+reference_PHE         =               44.00
+reference_GLY         =               62.00
+reference_HIS         =               33.00
+reference_ILE         =               -3.84
+reference_LYS         =               60.00
+reference_LEU         =                0.00
+reference_MET         =               13.00
+reference_ASN         =               22.00
+reference_PRO         =               16.32
+reference_GLN         =               26.60
+reference_ARG         =               25.20
+reference_SER         =               50.40
+reference_THR         =               25.60
+reference_VAL         =                7.20
+reference_TRP         =               20.80
+reference_TYR         =               28.80
+intraR_vdwatt         =               -0.00
+intraR_vdwrep         =                8.00
+intraR_electr         =               -0.00
+intraR_deslvP         =                0.00
+intraR_deslvH         =               -0.00
+intraR_hbbbbb_dis     =                0.00
+intraR_hbbbbb_the     =                0.00
+intraR_hbbbbb_phi     =                0.00
+intraR_hbscbb_dis     =               -0.00
+intraR_hbscbb_the     =               -0.18
+intraR_hbscbb_phi     =               -0.01
+intraR_hbscsc_dis     =                0.00
+intraR_hbscsc_the     =                0.00
+intraR_hbscsc_phi     =                0.00
+interS_vdwatt         =            -1088.01
+interS_vdwrep         =               58.75
+interS_electr         =               -0.00
+interS_deslvP         =             1250.83
+interS_deslvH         =              -55.16
+interS_hbbbbb_dis     =             -114.28
+interS_hbbbbb_the     =               -0.00
+interS_hbbbbb_phi     =               -0.00
+interS_hbscbb_dis     =              -53.42
+interS_hbscbb_the     =              -15.15
+interS_hbscbb_phi     =              -16.13
+interS_hbscsc_dis     =              -23.01
+interS_hbscsc_the     =               -4.62
+interS_hbscsc_phi     =               -0.00
+interD_vdwatt         =             -154.27
+interD_vdwrep         =               42.83
+interD_electr         =               -0.00
+interD_deslvP         =              185.77
+interD_deslvH         =              -87.05
+interD_hbbbbb_dis     =               -0.00
+interD_hbbbbb_the     =               -2.21
+interD_hbbbbb_phi     =               -2.62
+interD_hbscbb_dis     =               -0.00
+interD_hbscbb_the     =               -7.02
+interD_hbscbb_phi     =               -8.79
+interD_hbscsc_dis     =              -16.48
+interD_hbscsc_the     =              -10.17
+interD_hbscsc_phi     =               -9.22
+----------------------------------------------------
+Total                 =              451.08
+
+Total time spent: 0.144558

@@ -1,0 +1,5 @@
+Metric,Wild Type,Missense,Difference
+H-bonds,596,560,-36
+Energetics (kcal/mol),481.860,451.080,-30.780
+RMSD (Å),,,1.150
+RMSD between residues,,,0.011
